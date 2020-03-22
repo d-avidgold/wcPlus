@@ -1,4 +1,4 @@
-# wcPlus.java
+# wcPlus
 Word Counter that also provides top 10 words in a file with more information
 
 # Compilation/Runtime Instructions
